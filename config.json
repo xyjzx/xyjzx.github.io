@@ -19,7 +19,7 @@
     },
     "icons": {
         "Github" : {
-            "icon_src" : "images/github.svg",
+            "icon_src" : "images/6.svg",
             "href" : ":https://spdh1.netlify.app/",
             "hidden_img" : null,
             "width" : 0
