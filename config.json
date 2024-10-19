@@ -14,7 +14,8 @@
         "首页":"./"
     },
     "friends": {
-        "西游记" : "https://xyjzx.github.io/"
+        "西游记" : "https://xyjzx.github.io/",
+        "视频"  :  "https://spdh1.netlify.app/"
     },
     "icons": {
         "Github" : {
